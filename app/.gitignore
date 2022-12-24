@@ -1,0 +1,8 @@
+*.ipk
+.idea
+node_modules
+npm-debug.log
+react-tv/webos/*
+!react-tv/webos/appinfo.json
+!react-tv/webos/webOSTV.js
+!react-tv/webos/webOSTV-dev.js

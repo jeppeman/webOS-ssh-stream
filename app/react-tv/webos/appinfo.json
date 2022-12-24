@@ -1,0 +1,12 @@
+{
+  "id": "com.jeppeman.lg.playground",
+  "title": "lg-playground",
+  "vendor": "my awesome react-tv app",
+  "version": "0.0.1",
+  "type": "web",
+  "main": "index.html",
+  "icon": "icon.png",
+  "uiRevision": 2,
+  "largeIcon": "icon-large.png",
+  "disableBackHistoryAPI": true
+}

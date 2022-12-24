@@ -1,0 +1,9 @@
+{
+  "id": "com.jeppeman.lg.playground.service",
+  "description": "HelloWorld Service",
+  "services": [
+    {
+      "name": "com.jeppeman.lg.playground.service"
+    }
+  ]
+}

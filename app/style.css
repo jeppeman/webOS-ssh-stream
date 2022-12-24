@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: Munken Sans;
+  src: local('Munken Sans'), url(./assets/fonts/MunkenSansWeb-Regular.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: Munken Sans;
+  src: local('Munken Sans'), url(./assets/fonts/MunkenSansWeb-Bold.woff2) format('woff2');
+}
+
+.fade-enter {
+  opacity: 0;
+  z-index: 1;
+}
+
+.fade-enter-active {
+  opacity: 1;
+  transition: opacity 250ms ease-in;
+}
+
+.fade-exit {
+  opacity: 1;
+  z-index: 1;
+}
+
+.fade-exit-active {
+  opacity: 0;
+  transition: opacity 250ms ease-in;
+}
+
